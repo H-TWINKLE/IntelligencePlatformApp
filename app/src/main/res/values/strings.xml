@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">IntelligencePlatformApp</string>
+    <string name="app_name">智能家居</string>
+    <string name="enable_router">路由器定时关机</string>
 </resources>
